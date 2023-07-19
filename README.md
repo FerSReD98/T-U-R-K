@@ -7,8 +7,8 @@
 	
 <b>  Kullanımı</b>
 <h3>
-git clone https://github.com/yamanefkar/T-U-R-K/<br>
+git clone https://github.com/FerSReD98/T-U-R-K/<br>
 cd T-U-R-K/<br>
 bash tst.sh<br>
 </h3>
-<p>iNSTAGRAM : https://www.instagram.com/yamanefkarr/</p>
+<p>Discord : https://discord.gg/qKWab6xk8m</p>
