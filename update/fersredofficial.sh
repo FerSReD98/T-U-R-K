@@ -51,7 +51,7 @@ termux-notification -t "Tool kullanıma hazır"
 clear
 cd $HOME
 rm -rf T-U-R-K/
-git clone https://github.com/yamanefkar/T-U-R-K
+git clone https://github.com/FerSReD98/T-U-R-K
 termux-notification -t "Tool kullanıma hazır"
 ;;
 
