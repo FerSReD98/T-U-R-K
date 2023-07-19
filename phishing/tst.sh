@@ -1,12 +1,12 @@
 #!/bin/bash
-#Code : Yaman Efkar                                               #Youtube : YamanEfkar
-#İnstagram : @turksibertimi                                                                                                                                                      #Bu toolun kullanımında meydana gelicek hiç bir şey sorumluluğumda değildir!Kişi yaptığı tüm işlerden kendisi sorumludur!                                #Turk-Sploit-Pluas
+#Code : FerSReD Official                                               #Youtube : FerSReD Official
+#İnstagram : @fersred.official                                                                                                                                                      #Bu toolun kullanımında meydana gelicek hiç bir şey sorumluluğumda değildir!Kişi yaptığı tüm işlerden kendisi sorumludur!                                #Turk-Sploit-Pluas
 
 banner(){
         clear
         echo -e "\033[31;40;1m
 
-                   \e[36m           YamanEfkar
+                   \e[36m        FerSReD Official
                    \e[32m*******************************
                         █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\e[31m
                         █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
