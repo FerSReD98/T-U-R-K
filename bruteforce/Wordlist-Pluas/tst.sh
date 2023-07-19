@@ -125,7 +125,7 @@ else
 apt install php -y 
 clear
 cd Lib/
-echo "Bu Tool YamanEfkar Tarafından Kodlandı...." >> ok.txt
+echo "Bu Tool FerSReD Official Tarafından Geliştirildi...." >> ok.txt
 cd ..
 bash tst.sh	
 fi
