@@ -5,7 +5,7 @@ clear
 
 banner(){
 	echo -e '\e[37m
-	\tCode: YamanEfkar\033[31;40;1m
+	\tDeveloped: FerSReD Official\033[31;40;1m
 	¸.•*´¨`*•.¸¸.•*´¨`*•¸.•*´¨`*•.¸
 	░
 	░\e[31m[\e[37m01\e[31m]\e[37mİnstagram Bruteforce\033[31;40;1m
